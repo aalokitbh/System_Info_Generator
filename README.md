@@ -33,7 +33,4 @@ The output HTML page includes:
 - Disk Space Utilization section
 - Home Space Utilization section
 
-Example:
-```html
-<h2>System Uptime</h2>
-<pre>14:10  up 1 day,  3:22, 2 users, load averages: 1.22 1.12 1.09</pre>
+![Project Screenshot](project_preview.png)
